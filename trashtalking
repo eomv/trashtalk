@@ -4,10 +4,11 @@ local char = plr.Character
 
 local garbage = {
     "you're terrible";
-    "get good, get hoodcrack";
+    "get good, get genesis.cc";
     "LOL CLIPPED EZ";
     "i need a challenge";
-    "hoodcrack.cc owns u";
+    "genesis.cc owns u";
+    "genesis really runs u damn";
 
 
 }
